@@ -11,4 +11,5 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - helloworld/core.py
+    - hello-world-run.py
+    - helloworld/*
