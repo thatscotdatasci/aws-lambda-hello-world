@@ -1,4 +1,4 @@
-from helloworld.core import Message
+from helloworld.message import Message
 
 
 def lamdba_handler(event, context):
